@@ -39,4 +39,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-* Adnan Rahić - [adnanrahic](https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09)
+* Adnan Rahić - Article: [RESTful API design with Node.js](https://hackernoon.com/restful-api-design-with-node-js-26ccf66eab09)

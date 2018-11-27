@@ -29,10 +29,6 @@ yarn install || npm install
 * [Mongoose](https://github.com/Automattic/mongoose) - Mongoose
 * [body-parser](https://github.com/expressjs/body-parser) - body-parser
 
-## Authors
-
-* **Tsimnuj Hawj** - [tsimnujhawj](https://github.com/tsimnujhawj/)
-
 ## License
 
 This project is licensed under the MIT License.

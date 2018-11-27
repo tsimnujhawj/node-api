@@ -23,10 +23,6 @@ $ cd node-api
 yarn install || npm install
 ```
 
-## Running the tests
-
-No test
-
 ## Built With
 
 * [Express](https://github.com/expressjs/express) - Express
